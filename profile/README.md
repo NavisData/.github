@@ -9,9 +9,6 @@ AI-powered performance analytics platform for competitive sailing teams
 Try it for yourself!  
 Check the example we provide by going to our online analytics page *[here](https://navisdata.vercel.app/)* and enter the regatta code we povide below
 
-```
- 
-```
 >
 > Enter the race ID:
 > ```
